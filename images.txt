@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.9.20-bullseye
 centos:centos7.9.2009
+rockylinux:9.3.20231119-minimal
