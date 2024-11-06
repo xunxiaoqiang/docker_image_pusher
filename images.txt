@@ -9,3 +9,4 @@ centos:centos7.9.2009
 rockylinux:9.3.20231119
 rockylinux:9
 registry:latest
+rockylinux/rockylinux:8.8
