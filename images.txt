@@ -11,3 +11,4 @@ rockylinux:9
 registry:latest
 rockylinux/rockylinux:8.8
 busybox:glibc
+nginx:1.27-alpine
